@@ -4,7 +4,7 @@
 
 ## Sobre mí
 
-- 🔭 Actualmente estoy trabajando como desarrollador fullstak.
+- 🔭 Actualmente estoy trabajando como desarrollador fullstack.
 - 🌱 Actualmente estoy aprendiendo mas tecnologias de desarrollo web y movil.
 - 👯 Estoy buscando colaborar en análisis de datos.
 - 💬 Pregúntame sobre desarrollo web.
