@@ -1,16 +1,16 @@
 # ¡Hola! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy [Nombre], [breve descripción sobre ti].
+¡Bienvenido a mi perfil de GitHub! Soy Daniel xd.
 
 ## Sobre mí
 
-- 🔭 Actualmente estoy trabajando en [proyecto o área de interés].
-- 🌱 Actualmente estoy aprendiendo [tecnología o habilidad].
-- 👯 Estoy buscando colaborar en [proyectos relacionados o áreas de interés].
-- 💬 Pregúntame sobre [temas en los que tengas experiencia o interés].
-- 📫 Cómo contactarme: [tu correo electrónico o redes sociales].
-- 😄 Pronombres: [tus pronombres].
-- ⚡ Dato curioso: [algo interesante sobre ti].
+- 🔭 Actualmente estoy trabajando como desarrollador fullstak.
+- 🌱 Actualmente estoy aprendiendo mas tecnologias de desarrollo web y movil.
+- 👯 Estoy buscando colaborar en análisis de datos.
+- 💬 Pregúntame sobre desarrollo web.
+- 📫 Cómo contactarme: danielhachac@gmail.com.
+- 😄 Pronombres: Daniel.
+- ⚡ Dato curioso: Me gusta tocar corridos xd.
 
 ## Estadísticas de GitHub
 
