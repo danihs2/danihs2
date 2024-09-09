@@ -14,8 +14,8 @@
 
 ## Estadísticas de GitHub
 
-[![Estadísticas de GitHub de tu nombre de usuario](https://github-readme-stats.vercel.app/api?username=tu_nombre_de_usuario&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Estadísticas de GitHub de tu nombre de usuario](https://github-readme-stats.vercel.app/api?username=danihs2&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Lenguajes más usados
 
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_nombre_de_usuario&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=danihs2&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
