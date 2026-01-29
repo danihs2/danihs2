@@ -7,8 +7,7 @@
 - 🔭 Actualmente estoy trabajando como desarrollador fullstack.
 - 🌱 Actualmente estoy aprendiendo mas tecnologias de desarrollo web y movil.
 - 👯 Estoy buscando colaborar en análisis de datos.
-- 💬 Pregúntame sobre desarrollo web.
-- 📫 Cómo contactarme: danielhachac@gmail.com.
+- 💬 Pregúntame sobre desarrollo web
 - 😄 Pronombres: Daniel.
 - ⚡ Dato curioso: Me gusta tocar corridos xd.
 
