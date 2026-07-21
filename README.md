@@ -1,20 +1,15 @@
-# ¡Hola! 👋
+# Hey There! 👋
+Full-stack software engineer focused on building reliable business applications, backend services and system integrations.
 
-¡Bienvenido a mi perfil de GitHub! Soy Daniel xd.
+I work across the full development lifecycle: understanding operational requirements, designing APIs and data models, implementing features, testing integrations and preparing applications for deployment.
 
-## Sobre mí
+My recent work includes:
 
-- 🔭 Actualmente estoy trabajando como desarrollador fullstack.
-- 🌱 Actualmente estoy aprendiendo mas tecnologias de desarrollo web y movil.
-- 👯 Estoy buscando colaborar en análisis de datos.
-- 💬 Pregúntame sobre desarrollo web
-- 😄 Pronombres: Daniel.
-- ⚡ Dato curioso: Me gusta tocar corridos xd.
+Business-critical backend systems and REST APIs
+Relational database design and transactional workflows
+Authentication, permissions and multi-tenant applications
+Web, mobile and desktop-oriented solutions
+Payment, fiscal and third-party service integrations
+Docker-based environments, CI/CD and technical documentation
 
-## Estadísticas de GitHub
-
-[![Estadísticas de GitHub de tu nombre de usuario](https://github-readme-stats.vercel.app/api?username=danihs2&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## Lenguajes más usados
-
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=danihs2&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+I value clear architecture, maintainable code and solutions that solve real operational problems.
